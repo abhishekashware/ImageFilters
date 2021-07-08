@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageFilters</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="import_from_gallery">Import from Gallery</string>
+    <string name="saved_images">Saved Images</string>
+</resources>
